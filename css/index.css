@@ -133,11 +133,12 @@ footer {
 
 footer nav {
     width: 60%;
-    display: flex;
+    display: box;
     justify-content: space-between;
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+    background:white;
 }
 
 footer nav a {
